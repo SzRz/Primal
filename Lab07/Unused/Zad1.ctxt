@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment1.params=iloscTestow\ skala\ przeskok
+comment1.target=void\ wykresDlaBS(int,\ int,\ int)
+comment2.params=iloscTestow\ skala\ przeskok
+comment2.target=void\ wykresDlaSS(int,\ int,\ int)
+comment3.params=iloscTestow\ skala\ przeskok
+comment3.target=void\ wykresDlaIS(int,\ int,\ int)
+comment4.params=ilosc
+comment4.target=void\ uporz(int)
+comment5.params=ilosc
+comment5.target=void\ nieuporz(int)
+comment6.params=ilosc
+comment6.target=void\ czesciowo(int)
+numComments=7
