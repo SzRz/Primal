@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=
-comment0.target=KomparatorZlozony()
-comment1.params=cmp
-comment1.target=void\ dodaj(Comparator)
-comment2.params=left\ right
-comment2.target=int\ compare(java.lang.Object,\ java.lang.Object)
-numComments=3
